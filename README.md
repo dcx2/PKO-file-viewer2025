@@ -1,11 +1,26 @@
-# PKO-file-viewer
+# PKO-file-viewer 2025, dcx edit.
 
-Read/Show/Import/Export PKO or TOP game files. Lgo/Lmo/Lxo/Lab and some game tables
+Run bin>release>pkoviewer.
+Updated version 2025.
+Giving back to community. 
 
-You can use this program or it's source codes as you wish, beside used 3rd party libs with own licencies
-Author set no any limits over program's source code usage, share it freely
-Structures used in this program was found in internet and author have no any idea who share it, but feels great respect to that person
-Author ask you to share your modifications of this program for free, same as author did
-Resources program can show or export are right-protected by current rights-owner of "Pirate King Online"
-Using resources may trigger copyright issue for you, so be careful, and use it on own risk
-Have a good day, pirates
+
+Added function - export to gltf. Exporting together with animations, skeletons, textures, materials. 
+
+Works perfectly with all assets
+
+Items
+Characters
+Animation
+Skeletons
+Meshes
+Custom Models, Custom apparels, Effects. Everything.
+
+Export seperate or full assets. 
+Ready for modular building into Unreal Engine
+Ready for exporting to blender. 
+
+Credits to original creator. 
+
+Ill try to fix bugs or errors, if found. 
+Feel free to use.
