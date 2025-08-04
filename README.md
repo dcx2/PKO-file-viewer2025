@@ -1,4 +1,6 @@
 # PKO-file-viewer 2025, dcx edit.
+Assets viewer + exporter.
+#Tales of pirates, Pirate king online
 
 Run PKOModelViewer2025dcx>bin>release>pkoviewer.
 Updated version 2025.
