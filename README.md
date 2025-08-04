@@ -1,6 +1,6 @@
 # PKO-file-viewer 2025, dcx edit.
 
-Run bin>release>pkoviewer.
+Run PKOModelViewer2025dcx>bin>release>pkoviewer.
 Updated version 2025.
 Giving back to community. 
 
