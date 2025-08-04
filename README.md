@@ -1,4 +1,4 @@
-<img width="1568" height="773" alt="image" src="https://github.com/user-attachments/assets/2a01ce57-f259-4a2d-a658-91b8306dddb9" /># PKO-file-viewer 2025, dcx edit.
+PKO-file-viewer 2025, dcx edit.
 Assets viewer + exporter.
 #Tales of pirates, Pirate king online
 
